@@ -5,7 +5,7 @@ import { Player } from "./player.js";
 import { Sound } from "./sounds.js";
 import { UI } from "./ui.js";
 
-document.addEventListener("load", function () {
+window.addEventListener("load", function () {
   loading.style.display = "none";
   const canvas = document.getElementById("canvas1");
   canvas.style.visibility = "visible";
