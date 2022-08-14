@@ -1,2 +1,36 @@
 # 2D-Game-JS-01
-2D Game developed using JavaScript
+2D Game developed using HTML, CSS & Vanilla JavaScript
+
+<p align="center">
+  <img width="800" src="https://user-images.githubusercontent.com/87106402/184531743-002b0b76-674a-49a4-9dc1-56338ee66faf.png" alt="Block Diagram">
+</p>
+
+**To Win The Game,**
+
+The player need to achieve the target score before reaching the time limit. There are three types of enemies. Enemies only can kill while running on **Power Run Mode** ``(CTRL)``. Otherwise, if player get hit by an enemy, player lose a life. 
+
+At the start, player will have five (5) **"Lives"** and 25% of **Energy Points**. **The Energy Points** gain over time and reduce when on power run mode.
+
+### Enjoy the Game!!!
+
+## ---> [Play The Game](https://hasithasuneth.github.io/2D-Game-JS-01/2DGameJS/index.html) <---
+
+## Game Controls
+
+- Arrow Keys => For Movements
+  - UP - Jump & Stand
+  - Down - Sit & Power Boom (While on the Air)
+  - Right - Move Right
+  - Left - Move Left
+
+- CTRL => Power Run Mode (Press and hold)
+- Enter => Restart the game
+
+
+## Technical Information:
+- The game **"Winning Score"** and **"Time Limit"** can change on the ``"main.js"`` file lines 39 & 40.
+- Currently, the game does not support *touchpad inputs* so it's not playable on mobile devices.
+
+## Credit:
+- [Frankslaboratory Youtube Channel](https://www.youtube.com/c/Frankslaboratory)
+- [OpenGameArt.org](https://opengameart.org/)
