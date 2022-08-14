@@ -6,11 +6,12 @@ import { Sound } from "./sounds.js";
 import { UI } from "./ui.js";
 
 window.addEventListener("load", function () {
-  // loading.style.display = "none";
+  loading.style.display = "none";
   const canvas = document.getElementById("canvas1");
+  canvas.style.visibility = "visible";
   const ctx = canvas.getContext("2d");
-  canvas.width = 1000; // 500
-  canvas.height = 500; // 500
+  canvas.width = 1000;
+  canvas.height = 500;
 
   class Game {
     constructor(width, height) {
