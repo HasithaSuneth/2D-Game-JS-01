@@ -53,7 +53,6 @@ window.addEventListener("load", function () {
       this.sound.startSound();
     }
     update(deltaTime) {
-      // console.log(this.input.keys);
       // Game over check
       this.time += deltaTime;
       if (this.time > this.maxTime) this.gameOver = true;
