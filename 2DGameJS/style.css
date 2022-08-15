@@ -28,7 +28,8 @@
 #fire,
 #collisionAnimation,
 #lives,
-#restart {
+#restart,
+#arrowKeys {
   display: none;
 }
 
