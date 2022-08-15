@@ -180,7 +180,7 @@ export default class InputHandler {
       this.keys.splice(this.keys.indexOf("ArrowDown"), 1);
       this.keys.splice(this.keys.indexOf("ArrowLeft"), 1);
       this.keys.splice(this.keys.indexOf("ArrowRight"), 1);
-      this.keys.splice(this.keys.indexOf("Control"), 1);
+//       this.keys.splice(this.keys.indexOf("Control"), 1);
     });
   }
 }
