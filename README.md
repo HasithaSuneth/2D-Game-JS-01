@@ -1,16 +1,15 @@
 # 2D-Game-JS-01
 2D Game developed using HTML, CSS & Vanilla JavaScript
 
+### Desktop View
 <p align="center">
   <img width="800" src="https://user-images.githubusercontent.com/87106402/184531743-002b0b76-674a-49a4-9dc1-56338ee66faf.png" alt="Block Diagram">
 </p>
-<p align="center"><b>Desktop View</b></p>
 
+### Mobile View
 <p align="center">
   <img width="800" src="https://user-images.githubusercontent.com/87106402/184648354-d77fc808-5ba5-4972-a57a-0fde7d5e32bd.png" alt="Block Diagram">
-  
 </p>
-<p align="center"><b>Mobile View</b></p>
 
 **To Win The Game,**
 
