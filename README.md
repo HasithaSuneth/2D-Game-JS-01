@@ -28,8 +28,7 @@ At the start, player will have five (5) **"Lives"** and 25% of **Energy Points**
 
 
 ## Technical Information:
-- The game **"Winning Score"** and **"Time Limit"** can change on the ``"main.js"`` file lines 39 & 40.
-- Currently, the game does not support *touchpad inputs* so it's not playable on mobile devices.
+- The game **"Winning Score"** and **"Time Limit"** can change on the ``"main.js"`` file lines 44 & 45.
 
 ## Credit:
 - [Frankslaboratory Youtube Channel](https://www.youtube.com/c/Frankslaboratory)
