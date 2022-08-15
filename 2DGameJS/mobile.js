@@ -8,6 +8,7 @@ export class Mobile {
     this.restartImage = restart;
     this.arrowKeys = arrowKeys;
   }
+  
   restartLogo(context) {
     context.drawImage(
       this.restartImage,
@@ -17,6 +18,7 @@ export class Mobile {
       this.restartImgHeight
     );
   }
+  
   powerButton(context) {
     context.save();
     context.globalAlpha = 0.5;
@@ -26,6 +28,7 @@ export class Mobile {
     context.stroke();
     context.restore();
   }
+  
   arrowKeysButton(context) {
     context.save();
     context.globalAlpha = 0.5;
