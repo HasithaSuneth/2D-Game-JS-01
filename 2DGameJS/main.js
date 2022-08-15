@@ -108,6 +108,7 @@ window.addEventListener("load", function () {
       if (this.isMobileDevice) {
         this.mobile.restartLogo(context);
         this.mobile.powerButton(context);
+        this.mobile.arrowKeysButton(context);
       }
       this.enemies.forEach((enemy) => {
         enemy.draw(context);
