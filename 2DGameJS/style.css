@@ -27,7 +27,8 @@
 #enemy_spider_big,
 #fire,
 #collisionAnimation,
-#lives {
+#lives,
+#restart {
   display: none;
 }
 
