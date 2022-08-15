@@ -145,6 +145,7 @@ export default class InputHandler {
         this.keys.push("ArrowUp");
       }
     });
+    
     // Touch Swipe Contols
     /*
     window.addEventListener("touchmove", (e) => {
@@ -173,6 +174,7 @@ export default class InputHandler {
       }
     });
     */
+    
     window.addEventListener("touchend", (e) => {
       this.keys.splice(this.keys.indexOf("ArrowUp"), 1);
       this.keys.splice(this.keys.indexOf("ArrowDown"), 1);
