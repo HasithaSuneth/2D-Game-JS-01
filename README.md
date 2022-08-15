@@ -4,6 +4,13 @@
 <p align="center">
   <img width="800" src="https://user-images.githubusercontent.com/87106402/184531743-002b0b76-674a-49a4-9dc1-56338ee66faf.png" alt="Block Diagram">
 </p>
+<p align="center"><b>Desktop View</b></p>
+
+<p align="center">
+  <img width="800" src="https://user-images.githubusercontent.com/87106402/184648354-d77fc808-5ba5-4972-a57a-0fde7d5e32bd.png" alt="Block Diagram">
+  
+</p>
+<p align="center"><b>Mobile View</b></p>
 
 **To Win The Game,**
 
@@ -29,6 +36,7 @@ At the start, player will have five (5) **"Lives"** and 25% of **Energy Points**
 
 ## Technical Information:
 - The game **"Winning Score"** and **"Time Limit"** can change on the ``"main.js"`` file lines 44 & 45.
+- The game compatible with mobile devices.
 
 ## Credit:
 - [Frankslaboratory Youtube Channel](https://www.youtube.com/c/Frankslaboratory)
