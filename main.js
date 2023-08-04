@@ -1,10 +1,10 @@
-import { Background } from "./background.js";
-import { ClimbingEnemy, FlyingEnemy, GroundEnemy } from "./enemies.js";
-import InputHandler from "./input.js";
-import { Mobile } from "./mobile.js";
-import { Player } from "./player.js";
-import { Sound } from "./sounds.js";
-import { UI } from "./ui.js";
+import { Background } from "/JS/background.js";
+import { ClimbingEnemy, FlyingEnemy, GroundEnemy } from "/JS/enemies.js";
+import InputHandler from "/JS/input.js";
+import { Mobile } from "/JS/mobile.js";
+import { Player } from "/JS/player.js";
+import { Sound } from "/JS/sounds.js";
+import { UI } from "/JS/ui.js";
 
 window.addEventListener("load", function () {
   loading.style.display = "none";

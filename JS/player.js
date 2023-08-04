@@ -1,5 +1,5 @@
-import { CollisionAnimation } from "./collisionAnimation.js";
-import { FloatingMessage } from "./floatingMessage.js";
+import { CollisionAnimation } from "/JS/collisionAnimation.js";
+import { FloatingMessage } from "/JS/floatingMessage.js";
 import {
   Diving,
   Falling,
@@ -8,7 +8,7 @@ import {
   Rolling,
   Running,
   Sitting,
-} from "./playerStates.js";
+} from "/JS/playerStates.js";
 
 export class Player {
   constructor(game) {
