@@ -13,13 +13,13 @@
 
 **To Win The Game,**
 
-The player need to achieve the target score before reaching the time limit. There are three types of enemies. Enemies only can kill while running on **Power Run Mode** ``(CTRL)``. Otherwise, if player get hit by an enemy, player lose a life. 
+The player needs to achieve the target score before reaching the time limit. There are three types of enemies. Enemies only can kill while running on **Power Run Mode** ``(CTRL)``. Otherwise, if a player gets hit by an enemy, the player loses a life. 
 
-At the start, player will have five (5) **"Lives"** and 25% of **Energy Points**. **The Energy Points** gain over time and reduce when on power run mode.
+At the start, the player will have five (5) **"Lives"** and 25% of **Energy Points**. **The Energy Points** gain over time and reduce when on power run mode.
 
 ### Enjoy the Game!!!
 
-## ---> [Play The Game](https://hasithasuneth.github.io/2D-Game-JS-01/2DGameJS/index.html) <---
+## ---> [Play The Game](https://game1.hasithasuneth.com) <---
 
 ## Game Controls
 
@@ -35,7 +35,7 @@ At the start, player will have five (5) **"Lives"** and 25% of **Energy Points**
 
 ## Technical Information:
 - The game **"Winning Score"** and **"Time Limit"** can change on the ``"main.js"`` file lines 44 & 45.
-- The game compatible with mobile devices.
+- The game is compatible with mobile devices.
 
 ## Credit:
 - [Frankslaboratory Youtube Channel](https://www.youtube.com/c/Frankslaboratory)
