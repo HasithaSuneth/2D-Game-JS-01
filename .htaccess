@@ -1,4 +1,0 @@
-<IfModule mod_rewrite.c>
-	RewriteEngine On
-	RewriteRule ^(.*)$ 2DGameJS/$1 [L]
-</IfModule>
